@@ -1,6 +1,6 @@
 {
   "name": "react-native-ntc-pressable",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "React native pressable custom",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
